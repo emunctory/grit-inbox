@@ -1,0 +1,6 @@
+temp_env.txt
+.env
+dns_records_info.txt
+gritter-inbox/venv/
+*.pyc
+__pycache__/
