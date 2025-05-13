@@ -4,3 +4,5 @@ dns_records_info.txt
 gritter-inbox/venv/
 *.pyc
 __pycache__/
+*.json
+*.log
